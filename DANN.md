@@ -1,4 +1,4 @@
-# Domain-adversarial training of neural networks  
+# Domain-adversarial training of neural networks(2016)  
 ## 概要  
 ドメイン適応においてGRLを提案した最初の論文(この前に同じ著者がUDA by backprop という論文を出しておりこっちの方が先だが．．)  
 敵対的学習をend to endで学習できるようになっておりドメイン適応において判別器が用いられるようになったきっかけの論文？  
